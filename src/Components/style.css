@@ -1,0 +1,10 @@
+.remove {
+  background: rgb(12, 124, 251);
+  border-radius: 5px;
+  margin: 0px 5px;
+  padding: 3px 5px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  float: right;
+}
